@@ -11,3 +11,7 @@
 # To-Do List
 
 ![TDL](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/ba043e52-45b8-45ff-bdc3-f03ce54fbcaf)
+
+# Instagram Clone
+
+![IC1](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/96050dde-086c-4f88-95bc-973e4b2c1b43)
