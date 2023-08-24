@@ -16,4 +16,5 @@
 
 ![IC1](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/96050dde-086c-4f88-95bc-973e4b2c1b43)
 
+![IC2](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/3faba668-3cf6-42f4-9153-122da1643183)
 
