@@ -15,3 +15,5 @@
 # Instagram Clone
 
 ![IC1](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/96050dde-086c-4f88-95bc-973e4b2c1b43)
+
+![LP1](https://github.com/AdhikarlaShravani/OCTANET_AUGUST/assets/112093034/1096c8da-c356-445f-9e1d-3080dfb7ad74)
